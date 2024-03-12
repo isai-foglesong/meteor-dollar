@@ -36,7 +36,7 @@ const ListStuff = () => {
                 <th>Name</th>
                 <th>Quantity</th>
                 <th>Condition</th>
-                <th>Edit</th>
+                <th>Value</th>
               </tr>
             </thead>
             <tbody>
